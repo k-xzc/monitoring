@@ -10,11 +10,18 @@
 
 The server is used for SSL offloading and proxies around 25000 requests per second.
 
+
+
 ###  Installation needed :
 Prometheus server : https://prometheus.io/
+
 Prometheus node exporter : https://github.com/prometheus/node_exporter
+
 SSL expoter : https://github.com/ribbybibby/ssl_exporter
+
 Grafana server : https://grafana.com/
+
+
 
 ### Metrics 
 
